@@ -1,0 +1,424 @@
+cabal-version:      2.4
+name:               2022hs
+version:            0.1.0.0
+
+-- A short (one-line) description of the package.
+-- synopsis:
+
+-- A longer description of the package.
+-- description:
+
+-- A URL where users can report bugs.
+-- bug-reports:
+
+-- The license under which the package is released.
+-- license:
+author:             Travis Terry
+maintainer:         travisterry@iheartmedia.com
+
+-- A copyright notice.
+-- copyright:
+-- category:
+extra-source-files: CHANGELOG.md
+
+executable 01
+    main-is:          Main01.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 02
+    main-is:          Main02.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 03
+    main-is:          Main03.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 04
+    main-is:          Main04.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 05
+    main-is:          Main05.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 06
+    main-is:          Main06.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 07
+    main-is:          Main07.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 08
+    main-is:          Main08.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 09
+    main-is:          Main09.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 10
+    main-is:          Main10.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 11
+    main-is:          Main11.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 12
+    main-is:          Main12.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 13
+    main-is:          Main13.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 14
+    main-is:          Main14.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 15
+    main-is:          Main15.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 16
+    main-is:          Main16.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 17
+    main-is:          Main17.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 18
+    main-is:          Main18.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 19
+    main-is:          Main19.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 20
+    main-is:          Main20.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 21
+    main-is:          Main21.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 22
+    main-is:          Main22.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
+
+executable 23
+    main-is:          Main23.hs
+
+    -- Modules included in this executable, other than Main.
+    -- other-modules:
+
+    -- LANGUAGE extensions used by modules in this package.
+    -- other-extensions:
+    build-depends:
+      base ^>=4.17.0.0,
+      split,
+      containers,
+      sort,
+      hashable,
+      unordered-containers,
+      heap,
+      regex-pcre
+    hs-source-dirs:   app
+    default-language: Haskell2010
