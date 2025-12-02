@@ -1,5 +1,8 @@
 .idea/
 2020/
 2021/target
+2022/dist-newstyle
 2024/**/bin
 2024/**/obj
+
+*.local.*
